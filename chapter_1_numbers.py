@@ -10,3 +10,6 @@ seconds_per_hour * 24
 # Calculate seconds per day again, but this time save the result in a variable called seconds_per_day.
 seconds_per_day = seconds_per_hour * 24
 
+# Divide seconds_per_day by seconds_per_hour. Use floating-point (/) division.
+seconds_per_day / second_per_hour
+
